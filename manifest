@@ -1,0 +1,12 @@
+[app]
+name: Pneumatic Grabber
+category: Robotics
+author: Nathan Schmid
+icon: icon.png
+desc: Control application for the pneumatic grapper
+exec: pneumatic_grabber.py
+managed: yes
+uuid: 8818c129-ab1e-4947-9381-2bf94b5bfd56
+version: 1.0
+firmware: 0.9
+
